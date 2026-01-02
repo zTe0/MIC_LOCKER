@@ -1,0 +1,4 @@
+a path for a windows default "sound" pack of icons:
+C:\Windows\System32\mmsys.cpl
+
+Icons used from https://www.flaticon.com/
